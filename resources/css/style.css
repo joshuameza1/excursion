@@ -1,0 +1,12 @@
+html {
+    background-color: black;
+    font-family: Helvetica;
+    text-align: center;
+}
+h1 {
+    font-size: 20pt;
+    color: white;
+}
+#download-link {
+    color: aquamarine
+}
